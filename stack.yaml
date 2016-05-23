@@ -1,0 +1,14 @@
+flags: {}
+packages:
+- '.'
+extra-deps: 
+  [ "HPDF-1.4.8"
+  ]
+extra-package-dbs: []
+resolver: lts-5.17
+ #compiler: ghc-8.0.1
+ #setup-info:
+ #    ghc:
+ #        macosx:
+ #            8.0.1:
+ #                url: "https://downloads.haskell.org/~ghc/8.0.1/ghc-8.0.1-x86_64-apple-darwin.tar.xz"
